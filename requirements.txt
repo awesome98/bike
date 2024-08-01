@@ -11,6 +11,5 @@ python-dotenv
 openai
 streamlit_option_menu
 pydeck
-PIL
-iogeopy
+geopy
 requests
