@@ -101,7 +101,7 @@ def createPage():
                 initial_view_state=pdk.ViewState(
                     latitude=sum([start_lat, end_lat])/2,
                     longitude=sum([start_lon, end_lon])/2,
-                    zoom=10,
+                    zoom=11,
                     pitch=0,
                 ),
                 layers=[
